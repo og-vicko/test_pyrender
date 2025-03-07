@@ -1,0 +1,3 @@
+numpy==1.26.3
+pyrender==0.1.45
+trimesh==4.6.4
